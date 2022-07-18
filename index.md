@@ -1,8 +1,8 @@
 ## Inspired by David Swensen
 
-You can use the [editor on GitHub](https://github.com/realdatanyc/swensen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Before making investments in individual stocks, consider the risk / return vs. holding a balance portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[RESEARCH Audacy vs. Spotify](https://www.netcials.com/stock-comparison-nyse/SPOT-ETM/)
 
 ### Markdown
 
