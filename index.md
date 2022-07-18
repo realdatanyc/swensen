@@ -4,6 +4,8 @@ Before making investments in individual stocks, consider the risk / return vs. h
 
 [RESEARCH Audacy vs. Spotify](https://www.netcials.com/stock-comparison-nyse/SPOT-ETM/)
 
+[FinViz AUD](https://finviz.com/quote.ashx?t=AUD)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
